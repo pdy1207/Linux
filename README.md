@@ -65,4 +65,4 @@
 
 ### [VirtualBox 참조](https://opentutorials.org/course/173)
 ### [리눅스(Linux)는 무엇이고 우분투(Ubuntu)는 무엇인가 참조](https://jminie.tistory.com/87)
-### ※ 설치방법(현재 공사중...) : [링크](https://parkdoyoung98.tistory.com/)
+### ※ 설치방법(현재 공사중...) : 
