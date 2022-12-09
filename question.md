@@ -26,3 +26,16 @@
 - 파라미터가 없는 "sudo"는 "sudo -u root"와 동일(=root 권한으로 실행)
 - 현재 로그인된 계정의 패스워드가 필요
 - sudo -l : sudo 사용 시 관련 권한을 확인하는 방법
+
+
+<hr>
+
+<p align="center">
+  <img src="https://www.kibrispdr.org/data/600/git-png-10.png" height="250">
+  
+</p>
+
+
+
+ - :wq	변경내용 저장하고, 저장모드 종료
+ - :q!	변경내용 저장하지 않고 저장모드 종료
