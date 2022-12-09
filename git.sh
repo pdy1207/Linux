@@ -1,9 +1,9 @@
-### 운영체제 ( OS ) 
+------ 운영체제 ( OS ) 
 
     Window, Max, Linux ... 운영체제는 소프트웨어(프로그램)이다.
     
 
-### ll의 기본정리
+------ ll의 기본정리
 
     rw-/r--/r-- : 권한
     r : read (읽기)
@@ -14,7 +14,7 @@ A : 파일 소유자 권한 => rw-
 B : 그룹 권한 => r--
 C : 외부인 권한 => r--
 
-### 자주 쓰는 명령어 정리 TAB키를 자주사용하면 좋음.
+------ 자주 쓰는 명령어 정리 TAB키를 자주사용하면 좋음.
 
     1. ls (List)	=> 
       현재 경로에 있는 파일 및 폴더를 보여줌 (사용빈도율 99%)
@@ -57,3 +57,52 @@ C : 외부인 권한 => r--
 
     9. tail -f <파일이름>
       : 해당 파일을 모니터링할 때 사용하는 명령어
+
+=================================================================================
+
+------ ubuntu 내부의 git 명령어 정리
+
+        < $ sudo su - root > 
+        root 권한으로 실행. 
+        
+        <$ apt-add-repository ppa:ordrej/php> 
+        ppa repository 추가        
+        
+        <$ pat-get install libapache2-mod-php7.0> 
+        apache-php 연동 module 설치
+
+------ 버전 모음
+
+        <$ apache2 -v > 
+        <$ php -v> 
+        <$ mysql -v> 
+        설치된 package version check
+        
+------ 운영체제에 설치되어 있는 프로그램 최신버전 패치
+    
+        <$ apt-get upgrade> 
+        현재 운영체제에 설치되어 있는 프로그램 최신버전 패치
+        <$ apt-get update >  
+        package list 갱신
+
+------ 설치 모음
+
+        < $ apt-get install git > 
+        git 설치
+        < $ git --version> 
+        git version 확인
+        
+        <$ apt-get install php> 
+        php설치
+        
+        <$ apt-get install mysql-server> 
+        mysql-server 설치
+        
+        <$ apt-get install mysql-client> 
+        mysql-client 설치
+        
+        <$ apt-get install php-mysql> 
+        php-apache 연동 module 설치
+        
+        <$ service apache2 restart > 
+        적용위해 apache 재시작
