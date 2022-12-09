@@ -37,7 +37,8 @@
      리눅스에는 다양한 배포판이 존재한다. 예를들어  Red Hat, CentOS, Debian, Fedora, Linux Mint 등이 있다. 
      우분투는 또한 리눅스 배포판이다. 
      우분투에는 다양한 버전이 있다. 우분투 데스크톱 버전은 개인용 컴퓨터에 적합하다. 
-     또한 우분투 서버는 클라우드 및 서버에 적합하고 Ubuntu Core는 IoT (Internet of Things) 기반 장치를 개발하는 데 적합하다.
+     또한 우분투 서버는 클라우드 및 서버에 적합하고 Ubuntu Core는 IoT (Internet of Things) 기반 장치를 개발하는 데 
+     적합하다.
 
 ### 리눅스와 우분투의 `유사점`
 
