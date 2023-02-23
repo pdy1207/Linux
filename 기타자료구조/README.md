@@ -1,0 +1,25 @@
+## 음..
+
+#### [무료 FTP 프로그램 파일질라 다운로드 설치방법](https://bzsv7.tistory.com/83)
+- [하이아이피](http://www.haiip.net/download/install.php)
+- [버추얼박스](https://mainia.tistory.com/2379)
+- [우분투](https://dasima.xyz/ubuntu-installation-on-virtualbox/)
+#### [우분투 ](https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%84%A4%EC%B9%98)
+- [우분투 디스플레이](https://www.bearpooh.com/101)
+- [아파치 설치](https://seonghyuk.tistory.com/41)
+- [MySQL 설치](https://hiseon.me/linux/ubuntu/ubuntu-mysql-install/)
+#### [[Ubuntu] Ubuntu 20.04 에 APM 설치하기 (Apache2, Mysql, PHP)](https://yoshikixdrum.tistory.com/214)
+#### [Samba를 이용하여 우분투 윈도우 파일공유](https://webnautes.tistory.com/490)
+
+
+
+<hr>
+
+### ...
+
+- [오픈소스](https://codepen.io/trending)
+- https://codepen.io/wakana-k/pen/YzjYzJE
+- https://codepen.io/HighFlyer/pen/qByPyqr
+- https://codepen.io/ykadosh/pen/KKezJzz 캐러셀 드디어 찾았따
+- https://greensock.com/forums/topic/24636-canvas-page-transitions-and-hover/#comment-118060
+- https://speckyboy.com/page-transition-effects/
