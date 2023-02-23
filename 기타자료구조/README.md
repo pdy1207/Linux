@@ -10,8 +10,7 @@
 - [MySQL 설치](https://hiseon.me/linux/ubuntu/ubuntu-mysql-install/)
 #### [[Ubuntu] Ubuntu 20.04 에 APM 설치하기 (Apache2, Mysql, PHP)](https://yoshikixdrum.tistory.com/214)
 #### [Samba를 이용하여 우분투 윈도우 파일공유](https://webnautes.tistory.com/490)
-
-
+#### [아근데 아이피가 10...뭐시기 여서 바꿈](https://kennypark.tistory.com/12)
 
 <hr>
 
