@@ -14,6 +14,9 @@
 
 <hr>
 
+### 리눅스 관련
+   - [터미널에 출력되는 모든 내용 저장](https://itgameworld.tistory.com/122)
+
 ### ...
 
 - [오픈소스](https://codepen.io/trending)
