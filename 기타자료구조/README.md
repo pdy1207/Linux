@@ -20,6 +20,6 @@
 - [오픈소스](https://codepen.io/trending)
 - https://codepen.io/wakana-k/pen/YzjYzJE
 - https://codepen.io/HighFlyer/pen/qByPyqr
-- https://codepen.io/ykadosh/pen/KKezJzz 캐러셀 드디어 찾았따
+- https://codepen.io/ykadosh/pen/XWBKjEV 캐러셀 드디어 찾았따
 - https://greensock.com/forums/topic/24636-canvas-page-transitions-and-hover/#comment-118060
 - https://speckyboy.com/page-transition-effects/
