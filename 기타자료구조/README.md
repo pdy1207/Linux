@@ -12,7 +12,7 @@
 #### [Samba를 이용하여 우분투 윈도우 파일공유](https://webnautes.tistory.com/490)
 #### [아근데 아이피가 10...뭐시기 여서 바꿈](https://kennypark.tistory.com/12)
 #### [우분투는 어지간하면 영문판으로 다운로드하고 한글로바꾸셈~](https://dora-guide.com/ubuntu-korean/)
-#### [APM삭제하기](https://zzznara2.tistory.com/763)
+#### [APM삭제하기](https://zzznara2.tistory.com/763) + [블로그정리 추천!](https://velog.io/@chosj1526/LinuxUbuntu20.04-APM-%EC%99%84%EC%A0%84%EC%82%AD%EC%A0%9C)
 
 <hr>
 
