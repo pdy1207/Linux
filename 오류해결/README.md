@@ -21,3 +21,8 @@ cd ~ //home으로 바로감
 ```
 최신 우분투는 기본적으로 httpd.conf를 사용하지 않습니다. 대신 전역 설정파일인 /etc/apache2/apache2.conf  를 사용합니다.
 ```
+## 코드짧아지는법
+```
+sudo su - root 
+```
+- 띄어쓰기 주의!
