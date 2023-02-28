@@ -12,6 +12,8 @@
 #### [Samba를 이용하여 우분투 윈도우 파일공유](https://webnautes.tistory.com/490)
 #### [아근데 아이피가 10...뭐시기 여서 바꿈](https://kennypark.tistory.com/12)
 #### [우분투는 어지간하면 영문판으로 다운로드하고 한글로바꾸셈~](https://dora-guide.com/ubuntu-korean/)
+#### [APM삭제하기](https://zzznara2.tistory.com/763)
+
 <hr>
 
 ### 리눅스 관련
