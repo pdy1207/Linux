@@ -13,7 +13,7 @@
 #### [아근데 아이피가 10...뭐시기 여서 바꿈](https://kennypark.tistory.com/12)
 #### [우분투는 어지간하면 영문판으로 다운로드하고 한글로바꾸셈~](https://dora-guide.com/ubuntu-korean/)
 #### [APM삭제하기](https://zzznara2.tistory.com/763) + [블로그정리 추천!](https://velog.io/@chosj1526/LinuxUbuntu20.04-APM-%EC%99%84%EC%A0%84%EC%82%AD%EC%A0%9C)
-
+#### [php 버전 7.3 강제 낮춰서 설치하기](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
 <hr>
 
 ### 리눅스 관련
