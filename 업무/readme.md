@@ -6,3 +6,4 @@
 
 3. 패스워드 입력
 ```
+- [서버접속하는법](https://parkdoyoung98.tistory.com/40)
