@@ -16,6 +16,10 @@
 1. [한글입력 1](https://dora-guide.com/ubuntu-korean/)
 2. [한글입력 2](https://ieworld.tistory.com/4)
 
+## 기존 ip 변경
+
+- [ip 변경](https://kennypark.tistory.com/12)
+
 ## 삭제 
 
 1. [APM 삭제하기](https://zzznara2.tistory.com/763)
