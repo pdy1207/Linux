@@ -1,4 +1,4 @@
-## 음..
+## Linux
 
 #### [무료 FTP 프로그램 파일질라 다운로드 설치방법](https://bzsv7.tistory.com/83)
 - [하이아이피](http://www.haiip.net/download/install.php)
