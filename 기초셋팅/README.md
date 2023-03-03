@@ -11,6 +11,10 @@
 
 1. [Samba를 이용하여 공유폴더 생성하](https://webnautes.tistory.com/490)
 
+## 컴퓨터 내에서 가상머신 서버에 접속하기 (Virtualbox)
+
+1. [컴퓨터 내에서 가상머신 서버에 접속하기 (virtualbox)](https://iyk2h.tistory.com/7)
+
 ## 키보드 언어 설정
 
 1. [한글입력 1](https://dora-guide.com/ubuntu-korean/)
