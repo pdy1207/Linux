@@ -15,6 +15,7 @@
 #### [한글로 바꾸기 2](https://ieworld.tistory.com/4)
 #### [APM삭제하기](https://zzznara2.tistory.com/763) + [블로그정리 추천!](https://velog.io/@chosj1526/LinuxUbuntu20.04-APM-%EC%99%84%EC%A0%84%EC%82%AD%EC%A0%9C)
 #### [php 버전 7.3 강제 낮춰서 설치하기](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
+#### [컴퓨터 내에서 가상머신 서버에 접속하기 (virtualbox)](https://iyk2h.tistory.com/7)
 <hr>
 
 ### 리눅스 관련
