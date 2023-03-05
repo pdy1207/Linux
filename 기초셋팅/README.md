@@ -9,7 +9,7 @@
 
 ## window & Linux 공유폴더
 
-1. [Samba를 이용하여 공유폴더 생성하](https://webnautes.tistory.com/490)
+1. [Samba를 이용하여 공유폴더 생성기](https://webnautes.tistory.com/490)
 
 ## 컴퓨터 내에서 가상머신 서버에 접속하기 (Virtualbox)
 
@@ -23,6 +23,10 @@
 ## 기존 ip 변경
 
 - [ip 변경](https://kennypark.tistory.com/12)
+
+## 우분투 22.04 SSH 설치와 접속 포트 변경
+
+- [우분투 22.04 SSH 설치와 접속 포트 변경](https://cookiepress.co.kr/%EC%9A%B0%EB%B6%84%ED%88%AC-ssh/)
 
 ## 삭제 
 
@@ -47,3 +51,9 @@
 
 
     - 파일 이동하여 php 실행
+
+## 기타 
+
+- [하이아이피](http://www.haiip.net/download/install.php)
+- [무료 FTP 프로그램 파일질라 다운로드 설치방법](https://bzsv7.tistory.com/83)
+- [터미널에 출력되는 모든 내용 저장](https://itgameworld.tistory.com/122)
