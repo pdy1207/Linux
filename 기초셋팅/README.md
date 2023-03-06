@@ -9,8 +9,7 @@
 3. [php 7.3 다운로드](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
 4. [mysql](https://yoshikixdrum.tistory.com/214) <BR>
     3-1.[MYSQL2](https://hiseon.me/linux/ubuntu/ubuntu-mysql-install/)
-
-- [우분투 APM 설치](https://yoshikixdrum.tistory.com/214)
+    
 - [인파 리눅스 설치](https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%84%A4%EC%B9%98)
 ## window & Linux 공유폴더
 
