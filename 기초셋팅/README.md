@@ -7,6 +7,7 @@
 2. [php 7.3 다운로드](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
 3. [mysql](https://yoshikixdrum.tistory.com/214)
 
+- [우분투 APM 설치](https://yoshikixdrum.tistory.com/214)
 ## window & Linux 공유폴더
 
 1. [Samba를 이용하여 공유폴더 생성기](https://webnautes.tistory.com/490)
