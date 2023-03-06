@@ -3,12 +3,15 @@
 우분투 22.04 / php 7.3 / mysql 8.0
 ```
 ※ 기본적으로 **영어 설치**를 권장한다. 한국사람이 개발한게 아니기 때문에 파일 이동간이라던지 오류가 발생할 수 있음
-1. [버추얼박스 & 우분투](https://dasima.xyz/ubuntu-installation-on-virtualbox/)
-2. [php 7.3 다운로드](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
-3. [mysql](https://yoshikixdrum.tistory.com/214) <BR>
+1. [버추얼박스 & 우분투](https://dasima.xyz/ubuntu-installation-on-virtualbox/) <br>
+    - 1-1 [버추얼박스](https://mainia.tistory.com/2379)
+2. [아파치 설치](https://seonghyuk.tistory.com/41)
+3. [php 7.3 다운로드](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
+4. [mysql](https://yoshikixdrum.tistory.com/214) <BR>
     3-1.[MYSQL2](https://hiseon.me/linux/ubuntu/ubuntu-mysql-install/)
 
 - [우분투 APM 설치](https://yoshikixdrum.tistory.com/214)
+- [인파 리눅스 설치](https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%84%A4%EC%B9%98)
 ## window & Linux 공유폴더
 
 1. [Samba를 이용하여 공유폴더 생성기](https://webnautes.tistory.com/490)
@@ -30,6 +33,10 @@
 
 - [우분투 22.04 SSH 설치와 접속 포트 변경](https://cookiepress.co.kr/%EC%9A%B0%EB%B6%84%ED%88%AC-ssh/)
 
+## 디스플레이
+    
+- [우분투 디스플레이](https://www.bearpooh.com/101)
+    
 ## 삭제 
 
 1. [APM 삭제하기](https://zzznara2.tistory.com/763)
