@@ -66,3 +66,14 @@
 - [하이아이피](http://www.haiip.net/download/install.php)
 - [무료 FTP 프로그램 파일질라 다운로드 설치방법](https://bzsv7.tistory.com/83)
 - [터미널에 출력되는 모든 내용 저장](https://itgameworld.tistory.com/122)
+
+    
+    
+### ...
+
+- [오픈소스](https://codepen.io/trending)
+- https://codepen.io/wakana-k/pen/YzjYzJE
+- https://codepen.io/HighFlyer/pen/qByPyqr
+- https://codepen.io/ykadosh/pen/XWBKjEV 캐러셀 드디어 찾았따
+- https://greensock.com/forums/topic/24636-canvas-page-transitions-and-hover/#comment-118060
+- https://speckyboy.com/page-transition-effects/
