@@ -6,6 +6,7 @@
 1. [버추얼박스 & 우분투](https://dasima.xyz/ubuntu-installation-on-virtualbox/)
 2. [php 7.3 다운로드](https://www.how2shout.com/linux/how-to-install-php-7-4-on-ubuntu-22-04-lts-jammy-linux/)
 3. [mysql](https://yoshikixdrum.tistory.com/214)
+    3-1.[MYSQL2](https://hiseon.me/linux/ubuntu/ubuntu-mysql-install/)
 
 - [우분투 APM 설치](https://yoshikixdrum.tistory.com/214)
 ## window & Linux 공유폴더
