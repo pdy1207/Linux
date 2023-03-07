@@ -1,0 +1,2 @@
+## [귀찮을때 @_@;;](https://velog.io/@mooh2jj/%EC%9E%90%EB%B0%94%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%8E%EC%9D%B4-%EC%93%B0%EB%8A%94-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%AA%85%EB%A0%B9%EC%96%B4)
+
