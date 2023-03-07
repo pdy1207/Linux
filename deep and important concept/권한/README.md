@@ -50,7 +50,7 @@
   
 **chmod u(user)-r result.txt**
   
-이러한 경우는 없지만 가능은하다.
+= 이러한 경우는 없지만 가능은하다.
 </details>
 
 
