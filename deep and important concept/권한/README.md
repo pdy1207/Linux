@@ -28,6 +28,7 @@
 <details><summary>other 에 read 권한을 제외한다.
 </summary>
  <br>
+  
 **chmod o-r result.txt**
   
 = cat result.txt 파일 실행
@@ -37,6 +38,7 @@
 <details><summary>모든 사용자에게 읽음을 추가한다
 </summary>
 <br>  
+  
   **chmod o+r result.txt**
   
 = 모드를 바꾼다 권한을 어떤파일에게
