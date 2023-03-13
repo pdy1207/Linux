@@ -18,6 +18,7 @@
 ## 컴퓨터 내에서 가상머신 서버에 접속하기 (Virtualbox)
 
 1. [컴퓨터 내에서 가상머신 서버에 접속하기 (virtualbox)](https://iyk2h.tistory.com/7)
+2. [집에서 개인서버 만들기](https://cowhacker.tistory.com/87)
 
 ## 키보드 언어 설정
 
