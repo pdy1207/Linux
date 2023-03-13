@@ -27,3 +27,4 @@ exit
 전환 전 계정으로 돌아가는 명령어 입니다.
 ```
 - [관련링크](https://velog.io/@gusdnr814/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%B0%8F-%EA%B6%8C%ED%95%9C-%EA%B4%80%EB%A6%AC)
+- [관련링크2](https://velog.io/@dhkim1522/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B6%8C%ED%95%9C-%EA%B4%80%EB%A6%AC)
