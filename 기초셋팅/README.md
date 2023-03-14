@@ -19,7 +19,7 @@
 
 1. [컴퓨터 내에서 가상머신 서버에 접속하기 (virtualbox)](https://iyk2h.tistory.com/7)
 2. [집에서 개인서버 만들기](https://cowhacker.tistory.com/87)
-
+3. [우분투에 관한 ufw설정방법](https://yeopbox.com/%EC%9A%B0%EB%B6%84%ED%88%ACubuntu-22-04-server-%EB%B0%A9%ED%99%94%EB%B2%BDufw-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95/)
 ## 키보드 언어 설정
 
 1. [한글입력 1](https://dora-guide.com/ubuntu-korean/)
